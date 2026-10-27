@@ -1,0 +1,4 @@
+Order ID,Order Date (Raw),Date Status,Recommended Action
+ORD1004,31/02/2026,Invalid,Check the original source record before correcting.
+ORD1011,31/11/2026,Invalid,Check the original source record before correcting.
+ORD1025,,Missing,Recover the missing date from the original source.
